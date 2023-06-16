@@ -1,0 +1,2 @@
+- [Presentation slides](./slides)
+- [GPG key](https://github.com/AkihiroSuda.gpg)
